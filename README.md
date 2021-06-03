@@ -3,5 +3,19 @@
     width="30"
     height="30"
     style="float:left;">
-<br/> 
-⠀|⠀
+(
+<br />
+⠀⠀ ⠀
+<img src="https://avatars.githubusercontent.com/u/83677846?v=4"
+    width="28"
+    height="28"
+    style="float:left;">
+Project-DOW@github.com
+<br />⠀ ⠀⠀
+<img src="https://avatars.githubusercontent.com/u/85153055?v=4"
+    width="28"
+    height="28"
+    style="float:left;">
+Project-OHT@github.com
+<br />
+⠀ ⠀⠀⠀ ⠀)
