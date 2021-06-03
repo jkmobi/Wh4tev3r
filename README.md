@@ -1,11 +1,3 @@
-<p>
-  <img src="https://avatars.githubusercontent.com/u/75874055?s=48&v=4"
-    width="50"
-    height="50"
-    style="float:left;">
-<br />
-&nbsp;
-&nbsp;
 Hosted Project :
 <br />
 ⠀⠀ ⠀
