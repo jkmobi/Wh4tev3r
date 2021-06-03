@@ -1,9 +1,9 @@
 <p>
   <img src="https://avatars.githubusercontent.com/u/75874055?s=48&v=4"
-    width="30"
-    height="30"
+    width="50"
+    height="50"
     style="float:left;">
-(
+Hosted Project :
 <br />
 ⠀⠀ ⠀
 <img src="https://avatars.githubusercontent.com/u/83677846?v=4"
@@ -17,5 +17,3 @@ Project-DOW@github.com
     height="28"
     style="float:left;">
 Project-OHT@github.com
-<br />
-⠀ ⠀⠀⠀ ⠀)
